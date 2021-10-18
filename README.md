@@ -3,7 +3,10 @@
 
 **karatasarzu/karatasarzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+----
+![Github Gif](https://media.giphy.com/media/G8kzmJHKAbYjEIcNt7/giphy.gif)
+----
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,3 +16,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+----
+![Github Gif](https://media.giphy.com/media/YqE3jbSQQR6x9g19Kj/giphy.gif)
